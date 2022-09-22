@@ -8,7 +8,7 @@ This web application is an online auction app that allows user to upload their v
 # Web Application Screenshots
 
 
-<img src="https://github.com/VisithaIsuru/Online-Auction-System/blob/main/blog-5.jpg">
+<img src="https://github.com/NalinduMelaka/Online-Auction/blob/main/images/WhatsApp%20Image%202022-09-22%20at%2021.03.17.jpeg">
 
 
 # Steps
