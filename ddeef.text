@@ -1,0 +1,8 @@
+<div>
+			<label for="category_id" id="lbcategory_id">Select Category</label>
+			<input type="radio" id="html" name="category_id" value="1"><label>Lands</label><br>
+			<input type="radio" id="html" name="category_id" value="2"><label>Buildings</label><br><br>
+			</div>
+
+
+			category_id,'$category_id', $category_id = $_POST['category_id'];  && !is_numeric($category_id)
